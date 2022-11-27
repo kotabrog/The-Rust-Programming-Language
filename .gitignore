@@ -3,5 +3,6 @@
 !*.rs
 !*.toml
 !*.md
+!*.html
 !.gitignore
 target/
